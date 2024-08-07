@@ -1,13 +1,12 @@
 # HCMUS---Numerical methods for data science
 
-| ID | Full name          | ID Student | Roll     |
-        |-----|------------------------|----------------|--------------|
-        | 1   | Nguyễn Ngọc Thành      | 21280108       | Leader  |
-        | 2   | Lâm Gia Phú            | 21280104       |     Model & Report      |
-        | 3   | Trần Ngọc Khánh Như    | 21280040       |        Report & Slide     |
-        | 4   | Phạm Hoàng Đăng Khoa   | 21280021       |       Report       |
-        | 5   | Nguyễn Thái Duy        | 21110277       |       Model      |
-
+| ID | Full name          | ID Student | Role               |
+|----|--------------------|------------|--------------------|
+| 1  | Nguyễn Ngọc Thành  | 21280108   | Leader             |
+| 2  | Lâm Gia Phú        | 21280104   | Model & Report     |
+| 3  | Trần Ngọc Khánh Như| 21280040   | Report & Slide     |
+| 4  | Phạm Hoàng Đăng Khoa| 21280021  | Report             |
+| 5  | Nguyễn Thái Duy    | 21110277   | Model              |
 
 
 
